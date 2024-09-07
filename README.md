@@ -1,5 +1,5 @@
 README.md
-Desvendando atletas - Imersão dev com Google Gemini
+Desvendando atletas - Imersão dev com Google Gemini.
 O que faz essa aplicação?
 
 Imagina você, torcedor fanático, querendo saber mais sobre aquele atleta que te impressionou. Ou talvez você seja um curioso buscando informações sobre diferentes esportes. Com nosso buscador, você encontra tudo isso com apenas alguns cliques!
